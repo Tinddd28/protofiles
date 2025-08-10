@@ -1,4 +1,4 @@
-module github.com/Tinddd28/protos
+module github.com/Tinddd28/protofiles
 
 go 1.24.6
 
